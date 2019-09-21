@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://www.instants-de-lili.fr</loc>
+      <lastmod>2019-06-19</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/index.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Portraits.html/</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Contact.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Culinaire.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Enfants.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Famille.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Grossesse.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Instruments.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+      <loc>http://www.instants-de-lili.fr/Propos.html</loc>
+      <lastmod>2019-06-19</lastmod>
+   </url>
+   <url>
+   <loc>http://www.instants-de-lili.fr/Scenes.html</loc>
+   <lastmod>2019-06-19</lastmod>
+   </url>
+</urlset>
